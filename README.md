@@ -10,5 +10,5 @@
 23BCE10798	AYASHA MISHRA
 
 ### How to run:
-1. Upload UNSW_2018_IoT_Botnet_Dataset_1.csv , UNSW_2018_IoT_Botnet_Dataset_2.csv , UNSW_2018_IoT_Botnet_Dataset_3.csv , UNSW_2018_IoT_Botnet_Dataset_4.csv in your google drive under same space as colab
+1. Upload UNSW_2018_IoT_Botnet_Dataset_2.csv in your google drive under same space as colab
 2. Run the script
